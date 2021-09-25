@@ -1,10 +1,10 @@
-[![Header](<p align="center">https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Input%20Games.png)</p>](https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA)
+[<p align="center">![Header](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Input%20Games.png)](https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA)</p>
 
 ## I have been fond of programming since 1998, I study languages C ++, javascript, php. For several years I was interested in Unreal Engine. The technology of prod
 
 ### Latest Youtube Videos
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ### Languages and Tools
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=UnrealEngine&logoColor=#000000)
@@ -22,3 +22,5 @@
 ![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1877F2)
 ![Patreon](https://img.shields.io/badge/-Patreon-090909?style=for-the-badge&logo=Patreon&logoColor=CC353E)
 ![Itch.io](https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=FFFFFF)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
