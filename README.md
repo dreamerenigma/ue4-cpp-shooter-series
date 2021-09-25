@@ -5,6 +5,11 @@
 
 ### Latest Youtube Video
 <!-- YOUTUBE:START -->
+- [ПРОДОЛЖЕНИЕ СЛЕДУЕТ ➤ CYBERPUNK 2077 ➤ Бонусное прохождение](https://www.youtube.com/watch?v=h_FsrTAO-cw)
+- [ФИНАЛЬНАЯ РАЗВЯЗКА ➤ CYBERPUNK 2077 ➤ Прохождение (Финал/Концовка)](https://www.youtube.com/watch?v=ZbY_Qez1AHs)
+- [ОБОЮДНЫЕ ЧУВСТВА ➤ CYBERPUNK 2077 ➤ Прохождение #9](https://www.youtube.com/watch?v=SkhFmfudAds)
+- [ДУША КИБЕРПАНКА ➤ CYBERPUNK 2077 ➤ Прохождение #8](https://www.youtube.com/watch?v=xIlYtFnns3E)
+- [СИЛЬВЕРХЭНД ➤ CYBERPUNK 2077 ➤ Прохождение #7](https://www.youtube.com/watch?v=DcXUk5KMJEE)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools
