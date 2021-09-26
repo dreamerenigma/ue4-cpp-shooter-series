@@ -3,8 +3,8 @@
 <details>
   <summary>:zap: Screenshots:</summary>
     <p align="center">
-       ![alt text](https://github.com/[Volt-AmperAI]/[UE4-CPP-Shooter-Series]/blob/[master]/ShooterGameTest.png?raw=true)
-       ![alt text](https://github.com/[Volt-AmperAI]/[UE4-CPP-Shooter-Series]/blob/[master]/WorkInProgress.png?raw=true)
+       ![alt text](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/ShooterGameTest.png)
+       ![alt text](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/WorkInProgress.png)
     </p>
 </details>
 
