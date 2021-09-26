@@ -3,8 +3,8 @@
 <details>
   <summary>:zap: Screenshots:</summary>
     <p align="center">
-       ![alt text](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/ShooterGameTest.png)
-       ![alt text](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/WorkInProgress.png)
+      <img src="https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/ShooterGameTest.png" width="500" title="ShooterGameTest">
+      <img src="https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/WorkInProgress.png" width="500" alt="WorkInProgress">
     </p>
 </details>
 
@@ -25,3 +25,11 @@
 <a href="https://www.facebook.com/InputGamesStudios"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1877F2" /></a>
 <a href="https://www.patreon.com/inputgames"><img src="https://img.shields.io/badge/-Patreon-090909?style=for-the-badge&logo=Patreon&logoColor=CC353E" /></a>
 <a href="https://volt-amperai.itch.io"><img src="https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=FFFFFF" /></a>
+
+<details>
+  <summary>:zap: Screenshots:</summary>
+    <p align="center">
+       ![alt text](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/ShooterGameTest.png)
+       ![alt text](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/WorkInProgress.png)
+    </p>
+</details>
