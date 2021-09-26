@@ -1,7 +1,7 @@
 [<p align="center">![Header](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)](https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA)</p>
 
 <details>
-  <summary>:zap: Screenshots:</summary>
+  <summary>:camera_flash: Screenshots:</summary>
     <p align="center">
       <img src="https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/ShooterGameTest.png" width="500" title="ShooterGameTest">
       <img src="https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/WorkInProgress.png" width="500" alt="WorkInProgress">
