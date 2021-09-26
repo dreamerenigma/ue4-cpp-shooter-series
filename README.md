@@ -1,24 +1,21 @@
 [<p align="center">![Header](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Input%20Games.png)](https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA)</p>
 
-## I have been fond of programming since 1998, I study languages C ++, javascript, php. For several years I was interested in Unreal Engine. The technology of prod
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange&style=plastic)
+<details>
+  <summary>:zap: Screenshots:</summary>
+    <p align="center">
+       ![alt text](https://github.com/[Volt-AmperAI]/[UE4-CPP-Shooter-Series]/blob/[master]/ShooterGameTest.png?raw=true)
+       ![alt text](https://github.com/[Volt-AmperAI]/[UE4-CPP-Shooter-Series]/blob/[master]/WorkInProgress.png?raw=true)
+    </p>
+</details>
 
 ### Latest Youtube Video
 <!-- YOUTUBE:START -->
-- [ПРОДОЛЖЕНИЕ СЛЕДУЕТ ➤ CYBERPUNK 2077 ➤ Бонусное прохождение](https://www.youtube.com/watch?v=h_FsrTAO-cw)
-- [ФИНАЛЬНАЯ РАЗВЯЗКА ➤ CYBERPUNK 2077 ➤ Прохождение (Финал/Концовка)](https://www.youtube.com/watch?v=ZbY_Qez1AHs)
-- [ОБОЮДНЫЕ ЧУВСТВА ➤ CYBERPUNK 2077 ➤ Прохождение #9](https://www.youtube.com/watch?v=SkhFmfudAds)
-- [ДУША КИБЕРПАНКА ➤ CYBERPUNK 2077 ➤ Прохождение #8](https://www.youtube.com/watch?v=xIlYtFnns3E)
-- [СИЛЬВЕРХЭНД ➤ CYBERPUNK 2077 ➤ Прохождение #7](https://www.youtube.com/watch?v=DcXUk5KMJEE)
+- [Test Shooter Game](https://www.youtube.com/watch?v=YLMCFNnyCus)
+- [Terrain Demo](https://www.youtube.com/watch?v=qK2VEhlWWm4)
+- [Factory Shooter Game](https://www.youtube.com/watch?v=_IBrOsCJNzc)
+- [Block level Shooter Game](https://www.youtube.com/watch?v=Zf_THKDwFJo)
+- [Hour of Code game](https://www.youtube.com/watch?v=SRViShWbSTQ)
 <!-- YOUTUBE:END -->
-
-### Languages and Tools
-![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=UnrealEngine&logoColor=#000000)
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=#000000)
-![Autodesk](https://img.shields.io/badge/-Autodesk-090909?style=for-the-badge&logo=Autodesk&logoColor=018DC5)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6092C7)
-![Substance](https://img.shields.io/badge/-Substance-090909?style=for-the-badge&logo=Substance&logoColor=000000)
-![AdobePhotoshop](https://img.shields.io/badge/-AdobePhotoshop-090909?style=for-the-badge&logo=AdobePhotoshop&logoColor=#000000)
 
 ### Follow Me
 <a href="https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0100" /></a>
@@ -28,10 +25,3 @@
 <a href="https://www.facebook.com/InputGamesStudios"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1877F2" /></a>
 <a href="https://www.patreon.com/inputgames"><img src="https://img.shields.io/badge/-Patreon-090909?style=for-the-badge&logo=Patreon&logoColor=CC353E" /></a>
 <a href="https://volt-amperai.itch.io"><img src="https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=FFFFFF" /></a>
-
-<details>
-	<summary>:zap: Statistics:</summary>
-		<img align="left" alt="codeSTACKr's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volt-AmperAI&layout=compact)](https://github.com/Volt-AmperAI/github-readme-stats)" />
-			<br />
-				<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Volt-AmperAI&show_icons=true" />
-</details>
