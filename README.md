@@ -10,11 +10,11 @@
 
 ### Latest Youtube Video
 <!-- YOUTUBE:START -->
-- [Metro Interior](https://www.youtube.com/watch?v=XgoOwfWsCus)
-- [Character UI Forest Test](https://www.youtube.com/watch?v=EJtd-Y7XEoU)
-- [Test Shooter Game](https://www.youtube.com/watch?v=YLMCFNnyCus)
-- [Terrain Demo](https://www.youtube.com/watch?v=qK2VEhlWWm4)
-- [Factory Shooter Game](https://www.youtube.com/watch?v=_IBrOsCJNzc)
+- [ПРОДОЛЖЕНИЕ СЛЕДУЕТ ➤ CYBERPUNK 2077 ➤ Бонусное прохождение](https://www.youtube.com/watch?v=h_FsrTAO-cw)
+- [ФИНАЛЬНАЯ РАЗВЯЗКА ➤ CYBERPUNK 2077 ➤ Прохождение &lpar;Финал/Концовка&rpar;](https://www.youtube.com/watch?v=ZbY_Qez1AHs)
+- [ОБОЮДНЫЕ ЧУВСТВА ➤ CYBERPUNK 2077 ➤ Прохождение #9](https://www.youtube.com/watch?v=SkhFmfudAds)
+- [ДУША КИБЕРПАНКА ➤ CYBERPUNK 2077 ➤ Прохождение #8](https://www.youtube.com/watch?v=xIlYtFnns3E)
+- [СИЛЬВЕРХЭНД ➤ CYBERPUNK 2077 ➤ Прохождение #7](https://www.youtube.com/watch?v=DcXUk5KMJEE)
 <!-- YOUTUBE:END -->
 
 ### Follow Me
