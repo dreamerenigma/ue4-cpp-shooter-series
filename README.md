@@ -10,11 +10,11 @@
 
 ### Latest Youtube Video
 <!-- YOUTUBE:START -->
+- [28 ноября 2021 г.](https://www.youtube.com/watch?v=ez9_9NnSAvo)
 - [ПРОДОЛЖЕНИЕ СЛЕДУЕТ ➤ CYBERPUNK 2077 ➤ Бонусное прохождение](https://www.youtube.com/watch?v=h_FsrTAO-cw)
 - [ФИНАЛЬНАЯ РАЗВЯЗКА ➤ CYBERPUNK 2077 ➤ Прохождение &lpar;Финал/Концовка&rpar;](https://www.youtube.com/watch?v=ZbY_Qez1AHs)
 - [ОБОЮДНЫЕ ЧУВСТВА ➤ CYBERPUNK 2077 ➤ Прохождение #9](https://www.youtube.com/watch?v=SkhFmfudAds)
 - [ДУША КИБЕРПАНКА ➤ CYBERPUNK 2077 ➤ Прохождение #8](https://www.youtube.com/watch?v=xIlYtFnns3E)
-- [СИЛЬВЕРХЭНД ➤ CYBERPUNK 2077 ➤ Прохождение #7](https://www.youtube.com/watch?v=DcXUk5KMJEE)
 <!-- YOUTUBE:END -->
 
 ### Follow Me
