@@ -1,4 +1,4 @@
-[<p align="center">![Header](https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/GitLogo.png)](https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA)</p>
+[<p align="center">![Header](https://github.com/InputGames/InputGames/blob/master/Assets/GitLogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)](https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA)</p>
 
 <details>
   <summary>:camera_flash: Screenshots:</summary>
