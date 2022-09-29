@@ -17,11 +17,14 @@
 - [Night mission in FPS Shooter against drones](https://www.youtube.com/watch?v=VNo5lHzC9qw)
 <!-- YOUTUBE:END -->
 
-### Follow Me
-<a href="https://www.youtube.com/channel/UCEtApmKMpyGfDw41oiAoykA"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0100" /></a>
-<a href="https://web.telegram.org/z/#1098640611"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=2DA4D7" /></a>
-<a href="https://www.instagram.com/input.games"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=FE67A5" /></a>
-<a href="https://twitter.com/Andrey71743811"><img src="https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=40ABE2" /></a>
-<a href="https://www.facebook.com/InputGamesStudios"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=#1877F2" /></a>
-<a href="https://www.patreon.com/inputgames"><img src="https://img.shields.io/badge/-Patreon-090909?style=for-the-badge&logo=Patreon&logoColor=CC353E" /></a>
-<a href="https://volt-amperai.itch.io"><img src="https://img.shields.io/badge/-Itch.io-090909?style=for-the-badge&logo=Itch.io&logoColor=FFFFFF" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/volt-amperai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="volt-amperai" height="30" width="40" /></a>
+<a href="https://twitter.com/andrey71743811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrey71743811" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrey-trepalin-a795561b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey-trepalin-a795561b4" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15381038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15381038" height="30" width="40" /></a>
+<a href="https://fb.com/gipokampus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gipokampus" height="30" width="40" /></a>
+<a href="https://dribbble.com/inputgames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="inputgames" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc-lxe9myi8qxh2m5uynl1oq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-lxe9myi8qxh2m5uynl1oq" height="30" width="40" /></a>
+<a href="https://discord.gg/aJURUjC8ew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aJURUjC8ew" height="30" width="40" /></a>
+</p>
