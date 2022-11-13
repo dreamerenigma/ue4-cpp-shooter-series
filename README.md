@@ -1,10 +1,10 @@
-[<p align="center">![Header](https://github.com/InputGames/InputGames/blob/master/Assets/GitLogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
+[<p align="center">![Header](https://github.com/InputStudios/InputStudios/blob/master/Assets/GitLogo.png)](https://www.youtube.com/channel/UC-LXe9myi8QXh2M5UYNl1oQ)</p>
 
 <details>
   <summary>:camera_flash: Screenshots:</summary>
     <p align="center">
-      <img src="https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/ShooterGameTest.png" width="500" title="ShooterGameTest">
-      <img src="https://github.com/Volt-AmperAI/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/WorkInProgress.png" width="500" alt="WorkInProgress">
+      <img src="https://github.com/InputStudios/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/ShooterGameTest.png" width="500" title="ShooterGameTest">
+      <img src="https://github.com/InputStudios/UE4-CPP-Shooter-Series/blob/master/Assets/Readme/Screenshots/WorkInProgress.png" width="500" alt="WorkInProgress">
     </p>
 </details>
 
